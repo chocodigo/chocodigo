@@ -63,5 +63,5 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-15008C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-C70458.svg?style=for-the-badge&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-C70458.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
