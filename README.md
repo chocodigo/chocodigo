@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     🖥 I use usually use JavaScript language for programming
   </ul>
   <ul>
-    🌱 I’m currently learning oneM2M
+    🌱 I’m currently learning Node.js and mongodb
   </ul>
 
 <hr/>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ### 🔭 I’m currently working on
-- Nara Controls (Aug 2020 ~ Present)
+- Nara Controls (Aug 2020 ~ Oct 2021)
 
 <hr/>
 
