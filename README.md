@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/chocodigo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocodigo&amp;langs_count=8&amp;count_private=true&amp;exclude_repo=IoTSharp,awesome-wiki,InplaceEditBoxLib,awesome-avalonia,gitignore,allive,FinanceDataReader,ookii-dialogs-wpf,use-asset,MessageBox.Avalonia,covid19india-react,twitter-korean-text,git-usage,devil-glitches&amp;layout=compact&amp;theme=onedark" alt="Top Langs"></a></p> -->
 
 
-### 🔭 I’m currently working on
+### 🔭 
 - Nara Controls (Aug 2020 ~ Oct 2021)
 
 <hr/>
