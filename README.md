@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 ### 🔭 
 - Nara Controls (Aug 2020 ~ Oct 2021)
+### 🔫 
+- Wonder People (Feb 2022 ~ )
 
 <hr/>
 
