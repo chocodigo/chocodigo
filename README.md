@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     🖥 I use usually use JavaScript language for programming
   </ul>
   <ul>
-    🌱 I’m currently learning Node.js and mongodb
+    🌱 I’m currently learning typescript
   </ul>
 
 <hr/>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ### 🔭 
 - Nara Controls (Aug 2020 ~ Oct 2021)
 ### 🔫 
-- Wonder People (Feb 2022 ~ )
+- Wonder People (Feb 2022 ~ Jan 2023)
 
 <hr/>
 
